@@ -1,0 +1,80 @@
+11:33:30 Error System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Gacha.Table.TableLoader.Load[TKey,TRow](String filePath, String tableName, Boolean isFirstRowAsColumnName, Func`2 getKey, Func`2 getRow) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\TableLoader.cs:줄 21
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 48
+11:33:30 Error System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: source
+   위치: System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   위치: Gacha.Table.GachaTable.CreateGachaTableByGachaId(Int32 id) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 92
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 77
+11:33:39 Error System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Gacha.Table.TableLoader.Load[TKey,TRow](String filePath, String tableName, Boolean isFirstRowAsColumnName, Func`2 getKey, Func`2 getRow) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\TableLoader.cs:줄 21
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 48
+11:33:39 Error System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: source
+   위치: System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   위치: Gacha.Table.GachaTable.CreateGachaTableByGachaId(Int32 id) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 92
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 77
+11:35:22 Error System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Gacha.Table.TableLoader.Load[TKey,TRow](String filePath, String tableName, Boolean isFirstRowAsColumnName, Func`2 getKey, Func`2 getRow) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\TableLoader.cs:줄 21
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 48
+11:35:22 Error System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: source
+   위치: System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   위치: Gacha.Table.GachaTable.CreateGachaTableByGachaId(Int32 id) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 92
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 77
+11:36:01 Error System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Gacha.Table.TableLoader.Load[TKey,TRow](String filePath, String tableName, Boolean isFirstRowAsColumnName, Func`2 getKey, Func`2 getRow) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\TableLoader.cs:줄 21
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 48
+11:36:02 Error System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: source
+   위치: System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   위치: Gacha.Table.GachaTable.CreateGachaTableByGachaId(Int32 id) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 92
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 77
+11:38:10 Error System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Gacha.Table.TableLoader.Load[TKey,TRow](String filePath, String tableName, Boolean isFirstRowAsColumnName, Func`2 getKey, Func`2 getRow) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\TableLoader.cs:줄 21
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 48
+11:38:10 Error System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: source
+   위치: System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   위치: Gacha.Table.GachaTable.CreateGachaTableByGachaId(Int32 id) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 92
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 77
+11:38:15 Error System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Gacha.Table.TableLoader.Load[TKey,TRow](String filePath, String tableName, Boolean isFirstRowAsColumnName, Func`2 getKey, Func`2 getRow) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\TableLoader.cs:줄 21
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 48
+11:38:15 Error System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: source
+   위치: System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   위치: Gacha.Table.GachaTable.CreateGachaTableByGachaId(Int32 id) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 92
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 77
+11:39:11 Error System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Gacha.Table.TableLoader.Load[TKey,TRow](String filePath, String tableName, Boolean isFirstRowAsColumnName, Func`2 getKey, Func`2 getRow) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\TableLoader.cs:줄 21
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 48
+11:39:11 Error System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: source
+   위치: System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   위치: Gacha.Table.GachaTable.CreateGachaTableByGachaId(Int32 id) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 92
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 77
+11:40:45 Error System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Gacha.Table.TableLoader.Load[TKey,TRow](String filePath, String tableName, Boolean isFirstRowAsColumnName, Func`2 getKey, Func`2 getRow) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\TableLoader.cs:줄 21
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 48
+11:40:45 Error System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: source
+   위치: System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   위치: Gacha.Table.GachaTable.CreateGachaTableByGachaId(Int32 id) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 92
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 77
+11:41:20 Error System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Gacha.Table.TableLoader.Load[TKey,TRow](String filePath, String tableName, Boolean isFirstRowAsColumnName, Func`2 getKey, Func`2 getRow) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\TableLoader.cs:줄 21
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 48
+11:41:20 Error System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: source
+   위치: System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   위치: Gacha.Table.GachaTable.CreateGachaTableByGachaId(Int32 id) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 92
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 77
+11:41:32 Error System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Gacha.Table.TableLoader.Load[TKey,TRow](String filePath, String tableName, Boolean isFirstRowAsColumnName, Func`2 getKey, Func`2 getRow) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\TableLoader.cs:줄 21
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 48
+11:41:32 Error System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: source
+   위치: System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   위치: Gacha.Table.GachaTable.CreateGachaTableByGachaId(Int32 id) 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 92
+   위치: Gacha.Table.GachaTable..ctor() 파일 C:\bitBucket\ncsoft-internship\Gacha\Gacha\Table\GachaTable.cs:줄 77
